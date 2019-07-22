@@ -145,33 +145,33 @@ apache集合处理工具类的使用、
 
 #### IO
 
-字符流、字节流、输入流、输出流、
+[字符流、字节流](/basics/java-basic/byte-stream-vs-character-stream.md)、[输入流、输出流](/basics/java-basic/input-stream-vs-output-stream.md)
 
-同步、异步、阻塞、非阻塞、Linux 5种IO模型
+[同步、异步](/basics/java-basic/synchronized-vs-asynchronization.md)、[阻塞、非阻塞](/basics/java-basic/block-vs-non-blocking.md)、[Linux 5种IO模型](/basics/java-basic/linux-io.md)
 
-BIO、NIO和AIO的区别、三种IO的用法与原理、netty
+[BIO、NIO和AIO的区别、三种IO的用法与原理](/basics/java-basic/bio-vs-nio-vs-aio.md)、netty
 
 #### Java反射与javassist
 
-反射与工厂模式、 反射有什么作用
+[反射](/basics/java-basic/reflection.md)与工厂模式、 [反射有什么作用](/basics/java-basic/usage-of-reflection.md)
 
-Class类
+[Class类](/basics/java-basic/Class.md)
 
 `java.lang.reflect.*`
 
 #### 动态代理
 
-静态代理、动态代理
+[静态代理](/basics/java-basic/static-proxy.md)、[动态代理](/basics/java-basic/dynamic-proxy.md)
 
-动态代理和反射的关系
+[动态代理和反射的关系](/basics/java-basic/dynamic-proxy-vs-reflection.md)
 
-动态代理的几种实现方式
+[动态代理的几种实现方式](/basics/java-basic/dynamic-proxy-implementation.md)
 
-AOP
+[AOP](/basics/java-basic/aop-vs-proxy.md)
 
 #### 序列化
 
-什么是序列化与反序列化、为什么序列化、序列化底层原理、序列化与单例模式、protobuf、为什么说序列化并不安全
+[什么是序列化与反序列化](/basics/java-basic/serialize.md)、为什么序列化、[序列化底层原理](/basics/java-basic/serialize-principle.md)、[序列化与单例模式](/basics/java-basic/serialize-singleton.md)、protobuf、为什么说序列化并不安全
 
 #### 注解
 
@@ -189,7 +189,7 @@ Spring常用注解
 
 #### 泛型
 
-泛型与继承、类型擦除、泛型中K T V E ？ [object等的含义](/basics/java-basic/k-t-v-e.md)、泛型各种用法
+泛型与继承、类型擦除、[泛型中K T V E ？ object等的含义](/basics/java-basic/k-t-v-e.md)、泛型各种用法
 
 限定通配符和非限定通配符、上下界限定符extends 和 super
 
@@ -211,9 +211,9 @@ junit、mock、mockito、内存数据库（h2）
 
 #### API&SPI
 
-API、API和SPI的关系和区别
+API、[API和SPI的关系和区别](/basics/java-basic/api-vs-spi.md)
 
-如何定义SPI、SPI的实现原理
+[如何定义SPI](/basics/java-basic/create-spi.md)、[SPI的实现原理](/basics/java-basic/spi-principle.md)
 
 #### 异常
 
